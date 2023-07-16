@@ -14,3 +14,5 @@
 5. Save and generate code.
 6. Add mcp4725.c/.h to /Core/Src(and /Core/Inc)
 7. Write your code!
+
+MCP4725 Overview: https://www.microchip.com/en-us/product/MCP4725
